@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  PAGE_NAME: "index.html"   # <-- Change this to your HTML file
+  PAGE_NAME: "hello world.html"   # <-- Change this to your HTML file
 
 jobs:
   deploy:
